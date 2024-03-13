@@ -25,8 +25,8 @@ This smart contract allows players to collect, build, and earn rewards for their
 ## Contract Details
 
 - **Network:** ugooSubnet
-- **Chain ID**  45632974
-- **Currency Symbol**  Ugoo
+- **Chain ID:**  45632974
+- **Currency Symbol:**  Ugoo
 - **License:** MIT
 
 ## Vault Contract Functionalities
